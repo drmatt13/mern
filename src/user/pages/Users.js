@@ -8,7 +8,13 @@ const Users = () => {
     {
       id: 'ul',
       name: 'max schwarz',
-      image: 'url',
+      image: 'https://ragnarokaesthetic.com/pages/template%20default/images/david.png',
+      places: 3
+    },
+    {
+      id: 'ul',
+      name: 'jsidjsidj',
+      image: 'https://ragnarokaesthetic.com/pages/template%20default/images/david.png',
       places: 3
     }
   ];
